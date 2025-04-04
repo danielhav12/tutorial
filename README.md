@@ -1,2 +1,3 @@
-# tutorial
-nevim co mám psát
+# tutorialos
+ co mám písat
+mozna ou bych vedel
